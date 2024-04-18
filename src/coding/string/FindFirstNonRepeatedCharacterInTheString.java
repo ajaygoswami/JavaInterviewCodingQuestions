@@ -1,4 +1,4 @@
-package coding.streamlearning.string;
+package coding.string;
 
 public class FindFirstNonRepeatedCharacterInTheString {
     public static void main(String[] args) {

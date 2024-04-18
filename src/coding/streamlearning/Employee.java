@@ -1,7 +1,6 @@
-package coding;
+package coding.streamlearning;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Employee {
     private Integer id;

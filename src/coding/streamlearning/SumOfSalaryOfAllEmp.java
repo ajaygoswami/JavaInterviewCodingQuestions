@@ -1,7 +1,5 @@
 package coding.streamlearning;
 
-import coding.Employee;
-
 import java.util.List;
 
 public class SumOfSalaryOfAllEmp {

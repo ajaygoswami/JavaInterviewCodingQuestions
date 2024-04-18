@@ -1,7 +1,5 @@
 package coding.streamlearning;
 
-import coding.Employee;
-
 import java.util.DoubleSummaryStatistics;
 import java.util.List;
 import java.util.stream.Collectors;
