@@ -1,4 +1,4 @@
-package coding.numbers;
+package coding.array;
 
 import java.util.*;
 

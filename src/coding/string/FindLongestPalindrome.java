@@ -6,7 +6,7 @@ import java.util.stream.*;
 
 public class FindLongestPalindrome {
     public static void main(String[] args) {
-        System.out.println(longestPalindrome("dsdajdsd"));
+        System.out.println(longestPalindrome("aabbaa"));
     }
 
     public static String longestPalindrome(String str){
