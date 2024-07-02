@@ -1,3 +1,4 @@
+/*
 package coding.configure.twodatabases;
 
 import org.springframework.boot.context.properties.*;
@@ -47,3 +48,4 @@ public class SecondaryDatabaseConfiguration {
         this.password = password;
     }
 }
+*/

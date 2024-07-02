@@ -1,3 +1,4 @@
+/*
 package coding.configure.twodatabases;
 
 import org.hibernate.*;
@@ -74,3 +75,4 @@ public class JdbcConfiguration {
     }
 
 }
+*/
